@@ -35,6 +35,26 @@ Return an array where each element is the running sum of the input array.
 Find two numbers in the array that add up to a target value and return their indices.
 
 ---
+Day 2 – LeetCode Problems Solved
+
+✅ 1. 1929. Concatenation of Array
+Difficulty: Easy
+Return an array that is the concatenation of the original array with itself.
+LeetCode Link 
+LeetCode
+
+✅ 2. 169. Majority Element
+Difficulty: Easy
+Find the element that appears more than ⌊n / 2⌋ times in the array.
+LeetCode Link 
+LeetCode
+
+✅ 3. 66. Plus One
+Difficulty: Easy
+Given a non-empty array of digits representing a non-negative integer, increment the integer by one.
+LeetCode Link 
+LeetCode
+---
 
 📌 Stay tuned for more daily solutions!  
 
