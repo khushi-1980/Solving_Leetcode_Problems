@@ -55,6 +55,18 @@ Given a non-empty array of digits representing a non-negative integer, increment
 
 ---
 
+### ✅ 4. [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  
+**Difficulty:** Easy  
+Given two arrays, return an array of their unique intersection elements.  
+
+---
+
+### ✅ 5. [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)  
+**Difficulty:** Easy  
+Given two arrays, return an array of their intersection elements including duplicates.  
+
+---
+
 📌 Stay tuned for more daily solutions!  
 
 
