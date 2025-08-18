@@ -1,40 +1,41 @@
-# 🧠 LeetCode Daily Challenge
+# 🧠 LeetCode Daily Challenge  
 
-Welcome to my **LeetCode Daily Challenge** repository! Here, I solve at least one LeetCode problem every day to sharpen my problem-solving and coding skills. Each solution includes clean code and, when needed, brief explanations.
+Welcome to my **LeetCode Daily Challenge** repository! Here, I solve at least one LeetCode problem every day to sharpen my problem-solving and coding skills. Each solution includes clean code and, when needed, brief explanations.  
 
 ---
 
-## 📅 Day 1 - LeetCode Problems Solved
+## 📅 Day 1 - LeetCode Problems Solved  
 
 ### ✅ 1. [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)  
 **Difficulty:** Easy  
-Find the third distinct maximum number in an array. If it doesn't exist, return the maximum number.
+Find the third distinct maximum number in an array. If it doesn't exist, return the maximum number.  
 
 ---
 
 ### ✅ 2. [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)  
 **Difficulty:** Easy  
-Count how many numbers in the array have an even number of digits.
+Count how many numbers in the array have an even number of digits.  
 
 ---
 
 ### ✅ 3. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)  
 **Difficulty:** Easy  
-Move all zeros to the end of the array while maintaining the relative order of the non-zero elements.
+Move all zeros to the end of the array while maintaining the relative order of the non-zero elements.  
 
 ---
 
 ### ✅ 4. [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)  
 **Difficulty:** Easy  
-Return an array where each element is the running sum of the input array.
+Return an array where each element is the running sum of the input array.  
 
 ---
 
 ### ✅ 5. [1. Two Sum](https://leetcode.com/problems/two-sum/)  
 **Difficulty:** Easy  
-Find two numbers in the array that add up to a target value and return their indices.
+Find two numbers in the array that add up to a target value and return their indices.  
 
 ---
+
 ## 📅 Day 2 - LeetCode Problems Solved  
 
 ### ✅ 1. [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)  
@@ -67,7 +68,48 @@ Given two arrays, return an array of their intersection elements including dupli
 
 ---
 
-📌 Stay tuned for more daily solutions!  
+## 📅 Day 3 - LeetCode Problems Solved  
 
+### ✅ 1. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)  
+**Difficulty:** Easy  
+Check if any value appears at least twice in the array.  
 
+---
 
+### ✅ 2. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  
+**Difficulty:** Easy  
+Return true if there are two equal elements in the array such that their indices are at most `k` apart.  
+
+---
+
+### ✅ 3. [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  
+**Difficulty:** Hard  
+Find the smallest missing positive integer from the array in O(n) time and constant space.  
+
+---
+
+### ✅ 4. [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)  
+**Difficulty:** Medium  
+Divide two integers without using multiplication, division, or mod operator.  
+
+---
+
+### ✅ 5. [3158. Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/)  
+**Difficulty:** Easy  
+Return the XOR of all numbers that appear exactly twice in the array.  
+
+---
+
+### ✅ 6. [268. Missing Number](https://leetcode.com/problems/missing-number/)  
+**Difficulty:** Easy  
+Find the missing number from an array containing numbers in the range `[0, n]`.  
+
+---
+
+### ✅ 7. [136. Single Number](https://leetcode.com/problems/single-number/)  
+**Difficulty:** Easy  
+Every element appears twice except for one. Find that single element using bitwise XOR.  
+
+---
+
+📌 Stay tuned for more daily solutions! 🚀  
