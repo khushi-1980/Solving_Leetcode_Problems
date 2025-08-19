@@ -111,5 +111,43 @@ Find the missing number from an array containing numbers in the range `[0, n]`.
 Every element appears twice except for one. Find that single element using bitwise XOR.  
 
 ---
+## 📅 Day 4 - LeetCode Problems Solved  
 
-📌 Stay tuned for more daily solutions! 🚀  
+### ✅ 1. [403. Frog Jump](https://leetcode.com/problems/frog-jump/)  
+**Difficulty:** Hard  
+Determine if the frog can cross the river by landing on the last stone given jump constraints.  
+
+---
+
+### ✅ 2. [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)  
+**Difficulty:** Medium  
+Search for a target value in a rotated sorted array using modified binary search.  
+
+---
+
+### ✅ 3. [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)  
+**Difficulty:** Easy  
+Check whether an array is monotonic (entirely non-increasing or non-decreasing).  
+
+---
+
+### ✅ 4. [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)  
+**Difficulty:** Easy  
+Check if a deck of cards can be partitioned into groups of equal size where each group has the same integer.  
+
+---
+
+### ✅ 5. [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)  
+**Difficulty:** Easy  
+Find the maximum number of consecutive 1s in a binary array.  
+
+---
+
+### ✅ 6. [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)  
+**Difficulty:** Medium  
+Determine if there exists a valid array that matches the given derived array when applying the XOR operation on neighbors.  
+
+---
+
+📌 More problems coming soon — step by step, sharpening problem-solving every day!  
+
