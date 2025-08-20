@@ -111,6 +111,7 @@ Find the missing number from an array containing numbers in the range `[0, n]`.
 Every element appears twice except for one. Find that single element using bitwise XOR.  
 
 ---
+
 ## 📅 Day 4 - LeetCode Problems Solved  
 
 ### ✅ 1. [403. Frog Jump](https://leetcode.com/problems/frog-jump/)  
@@ -149,5 +150,30 @@ Determine if there exists a valid array that matches the given derived array whe
 
 ---
 
-📌 More problems coming soon — step by step, sharpening problem-solving every day!  
+## 📅 Day 5 - LeetCode Problems Solved  
 
+### ✅ 1. [2527. Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/)  
+**Difficulty:** Medium  
+Find the XOR-beauty of the given array using bitwise properties.  
+
+---
+
+### ✅ 2. [189. Rotate Array](https://leetcode.com/problems/rotate-array/)  
+**Difficulty:** Medium  
+Rotate the array to the right by `k` steps, where `k` is non-negative.  
+
+---
+
+### ✅ 3. [354. Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)  
+**Difficulty:** Hard  
+Given envelopes with width and height, find the maximum number that can be nested (Russian Doll style).  
+
+---
+
+### ✅ 4. [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)  
+**Difficulty:** Medium  
+Find the length of the longest consecutive elements sequence in the array.  
+
+---
+
+📌 More problems coming soon — step by step, sharpening problem-solving every day!  
